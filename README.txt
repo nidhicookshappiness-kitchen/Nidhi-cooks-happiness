@@ -1,0 +1,1 @@
+Nidhi Cooks Happiness website. Images are in the repository root. Upload index.html, style.css, README.txt and the two JPEG files directly to the main branch.
